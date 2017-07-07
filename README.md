@@ -1,5 +1,6 @@
 # FLPapi
 Using Weather Underground API to display weather information on Four Letter Phat.
+
 You can get an API key and see documentation www.wunderground.com/weather/api/d/docs?MR=1
 
 **Disclaimer
