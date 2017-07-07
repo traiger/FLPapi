@@ -1,11 +1,11 @@
 # FLPapi
-Using Weather Underground API to display temperature on Four Letter Phat.
+Using Weather Underground API to display weather information on Four Letter Phat. You can get an API key and see documentation here
 
 **Disclaimer
-<br>I don't really know what I'm doing, I'm sharing this because I couldn't find an example displaying info from an API on the Four Letter Phat.**
+<br>Beginner here, I'm sharing this because I couldn't find an example that display information from an API on the Four Letter Phat.**
 
 Useful code written by @sacmoses.
 
-Messy stuff attempted by me.
+Messy stuff by me.
 
-Attempted to get the information to scroll but had no luck.
+Next I want to display the temperature and the time and have them scroll by. If you have any ideas please let me know!
